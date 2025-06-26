@@ -7,17 +7,17 @@ Automate functional testing of a dream journaling platform, validating the corre
 
 ## 📁 Project Structure
 
-Wingify/
-├── pages/
-│ ├── HomePage.js # Page Object for index.html
-│ ├── DiaryPage.js # Page Object for dreams-diary.html
-│ └── SummaryPage.js # Page Object for dreams-total.html
-├── tests/
-│ ├── home.spec.js # Test cases for index.html
-│ ├── diary.spec.js # Test cases for dreams-diary.html
-│ └── total.spec.js # Test cases for dreams-total.html
-├── playwright.config.js # Playwright configuration
-├── package.json # Project metadata and dependencies
+          Wingify/
+          ├── pages/
+          │ ├── HomePage.js # Page Object for index.html
+          │ ├── DiaryPage.js # Page Object for dreams-diary.html
+          │ └── SummaryPage.js # Page Object for dreams-total.html
+          ├── tests/
+          │ ├── home.spec.js # Test cases for index.html
+          │ ├── diary.spec.js # Test cases for dreams-diary.html
+          │ └── total.spec.js # Test cases for dreams-total.html
+          ├── playwright.config.js # Playwright configuration
+          ├── package.json # Project metadata and dependencies
 
 ##  Test Coverage
 
